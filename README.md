@@ -1,1 +1,1 @@
-This is not an empty file
+0x00. Shell, basics
